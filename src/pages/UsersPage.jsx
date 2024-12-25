@@ -3,9 +3,9 @@ import { UserCheck, UserPlus, UsersIcon, UserX } from "lucide-react";
 import { motion } from "framer-motion";
 import StatCard from "../components/common/StatCard";
 import UsersTable from "../components/users/UsersTable";
-import UserGrowthChart from "../components/users/userGrowthChart";
-import UserActivityHeatmap from "../components/users/userActivityHeatmap";
-import UserDemographicsChart from "../components/users/userDemographicsChart";
+import UserGrowthChart from "../components/users/UserGrowthChart";
+import UserActivityHeatmap from "../components/users/UserActivityHeatmap";
+import UserDemographicsChart from "../components/users/UserDemographicsChart";
 
 
 const userStats = {
